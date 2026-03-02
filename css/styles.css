@@ -1,0 +1,66 @@
+/* Color Palette
+# - color 1
+# - color 2
+# - color 3
+# - color 4
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif; /* primary body font */
+    background: #f5f5f5; /* change or comment out once palette selected */
+    color: #333;
+}
+
+/* default heading fonts and sizes */
+h1, h2 {
+    font-family: 'Noto Serif Thai', serif;
+}
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header, footer {
+    background: #ddd; /* change to one of your palette colors */
+    text-align: center;
+    padding: 20px 10px;
+}
+header img {
+    max-width: 120px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+/* Work Experience
+------------------------------------*/
+section {
+    background: #fff; /* light background for sections */
+    margin: 20px auto;
+    padding: 15px 20px;
+    max-width: 800px;
+    border-radius: 4px;
+}
+
+/* Education
+------------------------------------*/
+
+
+/* Work Experience
+------------------------------------*/
+
+
+
+/* Education
+------------------------------------*/
